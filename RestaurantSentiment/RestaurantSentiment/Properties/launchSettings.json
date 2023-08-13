@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RestaurantSentiment": {
+      "commandName": "Project",
+      "commandLineArgs": "train x"
+    }
+  }
+}
